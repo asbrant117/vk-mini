@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "homepage": "https://asbrant117.github.io/vk-mini/",
-  "main": "index.js",
+  "main": "../public/index.js",
 
   "scripts": {
     "start": "cross-env PORT=10888 HTTPS=true react-scripts start",
